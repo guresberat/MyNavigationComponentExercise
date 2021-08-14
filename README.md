@@ -10,5 +10,6 @@
 ## How does it look ?
 
 <p>
-<img height= "400" src="https://media.giphy.com/media/UHlPKrk5YkYVs13UkY/giphy.gif" alt="Gif1" />
+<code><img src="https://i.imgur.com/ZeWqrSJl.png"></code>
+<img height= "400" src="https://media.giphy.com/media/FyHefeR0ocrxqmSAmI/giphy.gif" alt="Gif1" />
 </p>
