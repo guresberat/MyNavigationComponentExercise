@@ -1,6 +1,6 @@
 # NavigationComponentDEMO
 
-- An app i made to learn more about Navigation Component, Fragments and animations.
+- An app I made to learn more about Navigation Component, Fragments, and animations.
 
 ## Built With 
 
